@@ -1,0 +1,572 @@
+请输入过滤参数(没有直接回车):
+
+
+
+
+
+----------------------------- GP在线情况 ----------------------------
+
+1011___A___sikang___ighz.aempis.zyugjm.afhduo___none___402 hours     *** Online ***
+
+1012___A___zhuhuaqiang___com.triptas.idtastrip______63 hours     *** Online ***
+
+1013___A___xiangqian___com.cqjxffqc.gerdgcyr___none___429 hours     *** Online ***
+
+1014___A___shuxiaxin___com.incash.cabjahbcadeecd___none___66 hours      XXX OffLine XXX
+
+1015___A___shuxiaxin___com.ECash.cabjahbcadfgac___none___66 hours     *** Online ***
+
+1016___A___sikang___sadasd___none___311 hours      XXX OffLine XXX
+
+1017___A___zhuhuaqiang___com.emesline.esolined______86 hours     *** Online ***
+
+1018___A___xiangqian___com.rfqomose.dlzlnifa___none___82 hours     *** Online ***
+
+1030___A___xiangqian___com.nciklzci.uozzvbbq___none___93 hours     *** Online ***
+
+1031___A___shuxiaxin___com.procash.cabjahbcaeaiai___none___65 hours      XXX OffLine XXX
+
+1032___A___xiangqian___com.deimfsna.xxpawlit___plan3___139 hours     *** Online ***
+
+1033___A___shuxiaxin___com.badd.cabjagcbbceacf___none___573 hours      XXX OffLine XXX
+
+1034___A___sikang___rvfni.dvtm.vwzcg.yhxb___none___30 hours     *** Online ***
+
+1035___A___zhuhuaqiang___com.gajahmodal.gajahaha___old___47 hours     *** Online ***
+
+1036___B___shuxiaxin___com.badg.cabjahbabbebeh___none___118 hours      XXX OffLine XXX
+
+1037___A___xiangqian___com.kspmpk.jarisan___none___910 hours     *** Online ***
+
+1039___A___shuxiaxin___com.badj.cabjahbeahegfb___none___14 hours      --- Pending ---
+
+1041___A___shuxiaxin___com.baebsegerakilat.cabjahafafbccd___majia___201 hours      XXX OffLine XXX
+
+1043___B___xiangqian___com.ibbrnocj.nrrwktzy___plan3___304 hours      XXX OffLine XXX
+
+1044___A___xiangqian___com.djeghmgv.xxomhzuh___nonoe___88 hours     *** Online ***
+
+1045___D___shuxiaxin___null___none___1222 hours      XXX OffLine XXX
+
+1046___B___zhuhuaqiang___com.pinjamkit.kitcart___old___20 hours     *** Online ***
+
+1047___A___xiangqian___com.qghigiuk.cppyfxuf___none___133 hours     *** Online ***
+
+1048___B___shuxiaxin___com.baei.cabjahababeife___change logo name and logo___332 hours     *** Online ***
+
+1049___A___zhuhuaqiang___com.wangcep.ceptam___old___160 hours      XXX OffLine XXX
+
+1050___A___sikang___usgmea.xklue.zrmsti.hmcxz___none___59 hours      XXX OffLine XXX
+
+1051___A___xiangqian___com.hbgrrvwg.qzhyhpxh___plan3___58 hours     *** Online ***
+
+1052___A___sikang___ixok.wgcl.rtyzd.btmnv___plan3___415 hours     *** Online ***
+
+1053___A___zhuhuaqiang___com.sulapmurah.kartukrdtmu___old___399 hours      XXX OffLine XXX
+
+1054___B___xiangqian___com.vosfdtcf.gtgzhczi___none___237 hours     *** Online ***
+
+1055___B___shuxiaxin___com.baff.cabjahbcaeeedb___none___65 hours      XXX OffLine XXX
+
+1056___C___xiangqian___com.kreditekspress___^___1672 hours      XXX OffLine XXX
+
+1057___A___sikang___juok.bjulhr.nwmeiq.owpm___plan3___415 hours     *** Online ***
+
+1058___A___xiangqian___com.muxkrghk.cwkkwcei___plan3___328 hours      XXX OffLine XXX
+
+1059___B___zhuhuaqiang___com.tikeda.datikea___old___258 hours      XXX OffLine XXX
+
+1060___A___shuxiaxin___com.baga.cabjahbcaefiag___none___65 hours     *** Online ***
+
+1061___B___zhuhuaqiang___com.sumahoki.hokiber___old___85 hours     *** Online ***
+
+1062___B___zhuhuaqiang___com.shuichanja.chanpin___old___378 hours     *** Online ***
+
+1063___D___xiangqian______^___1670 hours      XXX OffLine XXX
+
+1064___A___sikang___lpxcst.kfja.oseifr.uwvn___none___49 hours     *** Online ***
+
+1065___C___zhuhuaqiang___com.shnanyankant.hsfunnandana___old___307 hours      XXX OffLine XXX
+
+1066___C___sikang___zmyuw.rah.igxjb.ksmg___none___1674 hours      XXX OffLine XXX
+
+1067___D___liguixiang___id.tepatduit.kfdsa______1270 hours      XXX OffLine XXX
+
+1069___A___xiangqian___com.msqidvtm.uvxxmngg___none___65 hours     *** Online ***
+
+1070___D___sikang___gkmun.nkbw.xkavf.jlduia___none___1388 hours      XXX OffLine XXX
+
+1071___A___zhuhuaqiang___com.tebaldop.doptebal______45 hours      XXX OffLine XXX
+
+1072___C___sikang___gdek.kecsap.shuw.odlh___硬上___1963 hours      XXX OffLine XXX
+
+1073___A___shuxiaxin___com.bahd.cabjahaeabfacd___none___260 hours      XXX OffLine XXX
+
+1074___B___xiangqian___com.pbejydgb.ygzxmzcg___plan1___402 hours     *** Online ***
+
+1075___B___xiangqian___com.wodeyeht.rhfcvceu___none___65 hours     *** Online ***
+
+1076___A___zhuhuaqiang___com.shijidawang.dawang______421 hours     *** Online ***
+
+1077___C___sikang___gkqv.hrirss.exnxws.umbqry___none___1674 hours      XXX OffLine XXX
+
+1078___D___liguixiang___id.mwqoru.acedana______118 hours      XXX OffLine XXX
+
+1079___A___liguixiang___id.asjag.koipond______95 hours     *** Online ***
+
+1080___A___liguixiang___id.link.long.zwqg______61 hours     *** Online ***
+
+1081___C___xiangqian___com.kreditunai___^___1670 hours      XXX OffLine XXX
+
+1082___C___shuxiaxin___com.baic.cabjagajajfiea___none___309 hours      XXX OffLine XXX
+
+1083___B___sikang___dlei.fmowij.nztmf.hjtugv___none___30 hours     *** Online ***
+
+1084___A___sikang___keivgh.wydh.qlrxgm.zlptwb___更新UI___1963 hours      XXX OffLine XXX
+
+1085___A___xiangqian___com.hkgjskml.bxwrfsub___none___12 hours      --- Pending ---
+
+1086___A___liguixiang___id.tunaiflash.ldjd______623 hours     *** Online ***
+
+1087___D___liguixiang___id.tokomaju.zvadsd______47 hours      XXX OffLine XXX
+
+1089___A___sikang___vehwx.azkpg.hqyui.qyefki___none___49 hours      XXX OffLine XXX
+
+1090___D___liguixiang___id.vsag.pantaiindah.sahgw______48 hours     *** Online ***
+
+1091___B___xiangqian___com.gzcfoeck.zjbmsvvx___plan3___70 hours     *** Online ***
+
+1092___A___shuxiaxin___com.KeretaJamin.cabjahbcbbdefd___none___70 hours      XXX OffLine XXX
+
+1093___A___liguixiang___id.dooo.cocotek______47 hours     *** Online ***
+
+1094___B___xiangqian___com.suhptdhh.rpfpjmyu___none___116 hours      XXX OffLine XXX
+
+1095___C___sikang___wlmpa.xkig.uyrd.elfv___changeLevel___2128 hours      XXX OffLine XXX
+
+1096___C___shuxiaxin___com.bunga.tek___none___1696 hours      XXX OffLine XXX
+
+1097___A___xiangqian___com.qloeetrg.jzoldpqi___none___44 hours     *** Online ***
+
+1098___A___xiangqian___com.ejxuhpwf.uszrkwyc___none___41 hours     *** Online ***
+
+1099___C___sikang___lpeqkz.jyeo.pzgx.wksf___客户硬上___1963 hours      XXX OffLine XXX
+
+1101___A___shuxiaxin___com.kartuberes.fierst___^___401 hours     *** Online ***
+
+1102___B___liguixiang___id.zagd.whalehidup.ajgd______64 hours      XXX OffLine XXX
+
+1103___C___sikang___gqrusm.ebkl.txnlm.gqxcp___none___1674 hours      XXX OffLine XXX
+
+1104___C___xiangqian___com.wjvmygs.tupgeut___^___1677 hours      XXX OffLine XXX
+
+1106___D___liguixiang___id.vmlsdk.kartupengeluaran______307 hours      XXX OffLine XXX
+
+1107___D___sikang___vkdag.ptaw.phdmxt.qgkv___none___311 hours      XXX OffLine XXX
+
+1109___B___shuxiaxin___com.bbaj.cabjagaebcaiaf___^___421 hours     *** Online ***
+
+1110___D___liguixiang___id.emasbahagia.ksdoqej______1672 hours      XXX OffLine XXX
+
+1111___C___sikang___zoegrt.dkvcw.lsde.ucsn___none___1102 hours      XXX OffLine XXX
+
+1112___C___xiangqian___com.nejgphre.nhluivfj___none___42 hours      XXX OffLine XXX
+
+1113___D___liguixiang___id.lembaremas.hqldsr______1672 hours      XXX OffLine XXX
+
+1114___A___shuxiaxin___com.LegaGo.cabjahbcafaibj___none___65 hours     *** Online ***
+
+1115___C___xiangqian___com.danakita___^___1672 hours      XXX OffLine XXX
+
+1116___C___xiangqian______^___1672 hours      XXX OffLine XXX
+
+1117___A___liguixiang___id.duniaemas.zadsa______287 hours     *** Online ***
+
+1119___C___sikang___mqwv.avqm.czfrm.qtbax___none___1674 hours      XXX OffLine XXX
+
+1120___A___xiangqian___com.cafimtfj.kfzggdeu___plan3___402 hours     *** Online ***
+
+1121___B___sikang___agit.yqdrb.mdhk.xecva___none___70 hours     *** Online ***
+
+1122___A___liguixiang___id.cashgads.donk.saytqw______48 hours      XXX OffLine XXX
+
+1123___C___xiangqian______^___1672 hours      XXX OffLine XXX
+
+1124___C___shuxiaxin___com.jamin.kita___none___1674 hours      XXX OffLine XXX
+
+1125___A___zhuhuaqiang___com.dokumu.umudok______421 hours     *** Online ***
+
+1126___A___shuxiaxin___com.DokuOk.cabjahbeaiecfe___none___13 hours      --- Pending ---
+
+1127___A___liguixiang___id.zahdja.kantongraja______329 hours     *** Online ***
+
+1129___B___zhuhuaqiang___com.seahorse.indoklt___init___134 hours      XXX OffLine XXX
+
+1130___C___sikang___scgij.czrpy.elyt.gyfu___changeLevel___1672 hours      XXX OffLine XXX
+
+1131___B___liguixiang___id.kdsfk.dokuok___new___1695 hours     *** Online ***
+
+1132___A___liguixiang___id.firepay.bzkjvdsjfsd______1415 hours     *** Online ***
+
+1133___A___shuxiaxin___com.bbdd.cabjagchbbbabe___^___400 hours     *** Online ***
+
+1134___A___sikang___kagemq.ogxnhj.uvkeia.bixk___none___48 hours     *** Online ***
+
+1135___A___sikang___rgtps.rqyo.bgwhdl.wvfy___none___47 hours     *** Online ***
+
+1136___A___xiangqian___com.plcxec1e.czxewu8z___新客给包___1603 hours     *** Online ***
+
+1137___A___liguixiang___id.ygdw.flashgold.zagd______63 hours     *** Online ***
+
+1139___A___sikang___fsnbyr.jzgcvq.mkzpb.vpwyrz___none___67 hours     *** Online ***
+
+1140___A___xiangqian___com.vbkrbcbc.jcuiuini___none___63 hours     *** Online ***
+
+1141___A___liguixiang___id.vytweq.pitihcrazy.zadge______68 hours     *** Online ***
+
+1142___A___xiangqian___com.syhxhdau.vrfdidve___none___163 hours     *** Online ***
+
+1143___A___sikang___ovfpij.akyq.ibzcvu.isqlmk___none___14 hours      --- Pending ---
+
+1144___B___zhuhuaqiang___com.ringan.angsuran___init___238 hours      XXX OffLine XXX
+
+1145___D___xiangqian___com.p4mhbrvs.pch5lodb___^___1463 hours      XXX OffLine XXX
+^A
+1146___B___zhuyuanbao___com.bbeg.cabjagcibbdbfa___方案3___307 hours     *** Online ***
+
+1147___A___sikang___juhc.yiks.nagv.dmonv______358 hours     *** Online ***
+
+1148___A___liguixiang___id.cepatberuang.sadkjkdsj______423 hours     *** Online ***
+
+1149___A___ganyupeng___com.cthwda.xzpyuf___上架___287 hours      XXX OffLine XXX
+
+1150___A___xiangqian___com.gelgilqk.xqfljwhw___plan3___355 hours     *** Online ***
+
+1151___B___xiangqian___com.lvqixxzc.dgxnkxnn___plan3___305 hours     *** Online ***
+
+1152___B___zhuyuanbao___bzmb.csqlho.ldacadaw___方案3___91 hours     *** Online ***
+
+1153___A___ganyupeng___com.icuqzw.dxryzp___2___1143 hours      XXX OffLine XXX
+
+1154___A___sikang___zxhv.alnog.wugnt.iumw___none___65 hours     *** Online ***
+
+1155___A___liguixiang___id.smarttek.cvndfds______307 hours     *** Online ***
+
+1156___A___sikang___cidelf.moje.idxv.oixb___none___49 hours      XXX OffLine XXX
+
+1157___A___liguixiang___id.asgdxzc.pohonlemon______119 hours     *** Online ***
+
+1158___A___sikang___escx.sbjv.dskrvo.izkgba___none___91 hours     *** Online ***
+
+1159___A___liguixiang___id.flashloan.zxhkfs______307 hours     *** Online ***
+
+1160___A___xiangqian___com.rrnamjgf.rlvvrcsw___none___0 hours      --- Pending ---
+
+1161___A___matao___mt.master.Pinjam.vten___主包___62 hours     *** Online ***
+
+1162___D___xiangqian___com.rnjytbvp.jnmmzm___none___1141 hours      XXX OffLine XXX
+
+1163___C___zhuyuanbao___com.bbgd.cabjafciagdfac___不上GP___813 hours      XXX OffLine XXX
+
+1164___A___sikang___wiefb.antw.pxbvq.hipn___none___91 hours      XXX OffLine XXX
+
+1166___C___xiangqian___com.bubgtbvk.pbtedvfx___none___42 hours      XXX OffLine XXX
+
+1167___B___zhuyuanbao___com.bbgh.cabjagceafacfi___给包___307 hours     *** Online ***
+
+1168___A___sikang___pwgfo.qxejc.pgat.rwjx___none___309 hours     *** Online ***
+
+1169___A___liguixiang___id.vdsjs.superkini______404 hours     *** Online ***
+
+1170___D___liguixiang___id.ndsx.walletexpress______717 hours      XXX OffLine XXX
+
+1171___A___shuxiaxin___com.bbhb.cabjahbcafbece___none___65 hours      XXX OffLine XXX
+
+1173___A___sikang___larxc.vekpb.obdn.msdq___none___281 hours     *** Online ***
+
+1174___A___liguixiang___id.lampuemas.zmcsd______47 hours     *** Online ***
+
+1176___A___xiangqian___com.wcazrmbd.cduvzoqu___none___68 hours     *** Online ***
+
+1178___A___sikang___zufl.jsrvdk.kzbcng.vqhjt___none___64 hours      XXX OffLine XXX
+
+1179___A___liguixiang___id.extrakta.mkfa______47 hours     *** Online ***
+
+1180___D___darui___com.mqvoizws.uixnwhblev___用户上架___594 hours      XXX OffLine XXX
+
+1181___D___zhuyuanbao___com.bbib.cabjagcjafchbb___方案3___307 hours      XXX OffLine XXX
+
+1182___D___darui___com.zdvnyxao.hrvcqpkowd___帮用户上架___662 hours      XXX OffLine XXX
+
+1183___B___sikang___com.cashgate.indo___none___617 hours      XXX OffLine XXX
+
+1184___A___matao___xfax.sdfjx.poip.lkkm___主包___92 hours     *** Online ***
+
+1185___A___shuxiaxin___com.bbif.cabjagcbbccedj___none___201 hours      XXX OffLine XXX
+
+1187___D___liguixiang___id.zafgw.easyget.xcbadb______48 hours      XXX OffLine XXX
+
+1188___D___liguixiang___id.sajf.gokaya.zajd______63 hours      XXX OffLine XXX
+
+1190___D___zhuyuanbao___com.bbja.cabjagbjafadfj___新客给包___158 hours      XXX OffLine XXX
+
+1193___A___matao___mt.master.kredit.vsix___主包___17 hours      --- Pending ---
+
+1194___D___liguixiang___id.cicilajah.davv______406 hours      XXX OffLine XXX
+
+1195___D___darui___com.sondaxlp.czrknsemwu___已发包 方案^___418 hours      XXX OffLine XXX
+
+1196___A___darui___com.jefstkaz.pbsgtylcwm___新客,帮用户上架（方案2）___0 hours     *** Online ***
+
+1197___B___pengsong___ayiho.qcvoaj.peodn___主包___92 hours     *** Online ***
+
+1198___A___matao___mt.master.harapan.vfive___主包___11 hours      --- Pending ---
+
+1199___D___darui___com.sxqkdyic.wgrbqaudkv___新客，已交付客户___160 hours      XXX OffLine XXX
+
+1201___A___zhuhuaqiang___com.kasteman.mankas___init___45 hours     *** Online ***
+
+1202___A___shuxiaxin___com.bcac.cabjahbcagadbf___none___64 hours     *** Online ***
+
+1204___D___liguixiang___id.saklff.yoyowallet.kahzad______71 hours     *** Online ***
+
+1205___B___xiangqian___com.hbbgtxbg.qxpduyqa___none___229 hours      XXX OffLine XXX
+
+1206___B___zhuhuaqiang___com.kasisten.aecil___init___20 hours     *** Online ***
+
+1208___B___matao___com.safecash.dshf.qwu___客户自己上___44 hours      XXX OffLine XXX
+
+1210___A___xiangqian___com.arblejbn.lghiipkm___none___89 hours      XXX OffLine XXX
+
+1214___B___zhuhuaqiang___com.expayid.idexpay___old___20 hours      --- Pending ---
+
+1215___B___matao___mt.master.Toko.Dana___客户自己上___44 hours      XXX OffLine XXX
+
+1216___D___sikang___hxym.jpxu.yhlocv.qzocjg___none___42 hours      XXX OffLine XXX
+
+10110___D___liguixiang___id.saldoku.dak______307 hours      XXX OffLine XXX
+
+10115___A___zhuyuanbao___hmrky.sdwclo.oxinv.flph___方案1___58 hours     *** Online ***
+
+10116___C___zhuyuanbao___dtofkc.hmdetz.cema.bqsa__马甲不上gp___1240 hours      XXX OffLine XXX
+
+10121___A___xiangqian___com.rgmsqafu.cxahyoig___1012 majia___494 hours      XXX OffLine XXX
+
+10131___A___xiangqian___com.vzuchbzc.vraeryzh___none___33 hours      XXX OffLine XXX
+
+10161___A___sikang___vtqj.qhycw.jxqr.fqvzsy___none___111 hours     *** Online ***
+
+10310___A___shuxiaxin___com.DKilat.cabjahbcaeceeb___none___61 hours     *** Online ***
+
+10321___A___sikang___azxn.ntdm.lkdvy.mvups___none___24 hours     *** Online ***
+
+10322___A___sikang___vudcnm.uvwsg.dyexp.wirm___KSP___249 hours     *** Online ***
+
+10325___A___xiangqian___com.hdafgcur.rodecfge___none___238 hours      XXX OffLine XXX
+
+10333___D___xiangqian___com.bcbghjzm.lbesgylb___1033 h5 majia___496 hours      XXX OffLine XXX
+
+10335___A___zhuyuanbao___yeig.tikh.reizf.lfya___方案1___67 hours     *** Online ***
+
+10341___A___sikang___nvme.rchzlk.akze.celagp___none___70 hours      XXX OffLine XXX
+
+10410___A___shuxiaxin___com.baebsegerakilat.cabjahbaafeech___none___61 hours     *** Online ***
+
+10431___A___xiangqian___com.x7jrgybt.iwfnd6gx___^___1315 hours      XXX OffLine XXX
+
+10441___A___xiangqian___com.qevcnyhg.rcfteftl___none___236 hours      XXX OffLine XXX
+
+10521___A___sikang___sntil.qiyeob.gbhdwe.tdux___马甲包___1623 hours      XXX OffLine XXX
+
+10541___B___xiangqian___com.pqaqyibq.gurabpcg___none___237 hours      XXX OffLine XXX
+
+10542___B___xiangqian___com.vaokpegl.bqgxzphw___majia___594 hours      XXX OffLine XXX
+
+10641___A___sikang___ulhq.bakw.abcx.zadnpv___none___696 hours      XXX OffLine XXX
+
+10670___D___liguixiang___id.duittepatpro.cmksdlhslf______1337 hours      XXX OffLine XXX
+
+10701___D___sikang___syjzbw.chbymw.airwp.yvgac___新马甲___1838 hours      XXX OffLine XXX
+
+10800___A___liguixiang___id.sahzad.linkajaib.askdqw______93 hours     *** Online ***
+
+10801___A___liguixiang___id.askhasqw.linkbunga.xajas______90 hours      XXX OffLine XXX
+
+10831___B___sikang___wmhj.rgeb.lbhcm.deixfa___none___70 hours      XXX OffLine XXX
+
+11060___A___liguixiang___id.nfdsf.untung______307 hours      XXX OffLine XXX
+
+11090___B___shuxiaxin___com.bbaja.cabjahbeaeaifc___none___18 hours     *** Online ***
+
+11341___A___sikang___nsblqv.tpxfv.azixyv.rljfcq___none___160 hours      XXX OffLine XXX
+
+11361___A___xiangqian___com.zglcvyhn.aliinyba___none___34 hours     *** Online ***
+
+11391___A___sikang___jwgbtp.gfyvdm.keqtz.onem___none___595 hours      XXX OffLine XXX
+
+11401___A___xiangqian___com.babasphz.dahxiain___majia___616 hours      XXX OffLine XXX
+
+11421___A___xiangqian___com.gsdzyhco.dczkvgdf___none___161 hours      XXX OffLine XXX
+
+11480___A___liguixiang___id.kancil.kantong.kecil.ahfq______48 hours      XXX OffLine XXX
+
+11525___D___zhuyuanbao___qrjw.ljcbeb.demhtfkh___方案3___241 hours      XXX OffLine XXX
+
+11541___A___sikang___sbofm.rswd.vyrjod.bqew___none___232 hours      XXX OffLine XXX
+
+11561___A___sikang___dktwu.hzmlu.dkxs.hnor___none___42 hours      XXX OffLine XXX
+
+11641___A___sikang___hngejm.jrctu.covfrp.towi___none___131 hours     *** Online ***
+
+11849___B___matao___xfka.akdj.fjgi.dji___majia___92 hours      XXX OffLine XXX
+
+11989___B___matao___mt.majia.quick.vthree___马甲___42 hours     *** Online ***
+
+
+-------------------------------- 24小时内发布情况 ----------------------------------
+
+1039___A___shuxiaxin___com.badj.cabjahbeahegfb___none___14 hours      --- Pending ---
+
+1046___B___zhuhuaqiang___com.pinjamkit.kitcart___old___20 hours     *** Online ***
+
+1085___A___xiangqian___com.hkgjskml.bxwrfsub___none___12 hours      --- Pending ---
+
+1126___A___shuxiaxin___com.DokuOk.cabjahbeaiecfe___none___13 hours      --- Pending ---
+
+1143___A___sikang___ovfpij.akyq.ibzcvu.isqlmk___none___14 hours      --- Pending ---
+
+1160___A___xiangqian___com.rrnamjgf.rlvvrcsw___none___0 hours      --- Pending ---
+
+1193___A___matao___mt.master.kredit.vsix___主包___17 hours      --- Pending ---
+
+1196___A___darui___com.jefstkaz.pbsgtylcwm___新客,帮用户上架（方案2）___0 hours     *** Online ***
+
+1198___A___matao___mt.master.harapan.vfive___主包___11 hours      --- Pending ---
+
+1206___B___zhuhuaqiang___com.kasisten.aecil___init___20 hours     *** Online ***
+
+1214___B___zhuhuaqiang___com.expayid.idexpay___old___20 hours      --- Pending ---
+
+11090___B___shuxiaxin___com.bbaja.cabjahbeaeaifc___none___18 hours     *** Online ***
+
+
+-------------------------------- 24小时内下架 ----------------------------------
+
+1084___sikang___A___keivgh.wydh.qlrxgm.zlptwb____online 1064 hours___0 hours ago
+
+
+-------------------------------- 下架3天以上（等级变更后没有上过线这里也会有记录） ----------------------------------
+
+1149___ganyupeng___A___com.cthwda.xzpyuf____online 211 hours ___ offline 75 hours ago
+
+10341___sikang___A___uynbcw.gcfaxy.excpma.doczm____online 2 hours ___ offline 149 hours ago
+
+1078___liguixiang___A___id.acedana.zvasd____online 62 hours ___ offline 267 hours ago
+
+1073___shuxiaxin___A___com.bahd.cabjahaeabfacd____online 62 hours ___ offline 193 hours ago
+
+1071___zhuhuaqiang___A___com.domruptebal.domdup____online 33 hours ___ offline 78 hours ago
+
+1092___shuxiaxin___A___com.bajc.cabjahafbbeece____online 131 hours ___ offline 106 hours ago
+
+1156___sikang___A___mgjk.eovgxa.wygok.lxrwjf____online 324 hours ___ offline 78 hours ago
+
+1153___ganyupeng___A___com.icuqzw.dxryzp____online 91 hours ___ offline 973 hours ago
+
+10441___xiangqian___A___com.qevcnyhg.rcfteftl____online 135 hours ___ offline 98 hours ago
+
+10110___liguixiang___A___id.saldoku.dak____online 288 hours ___ offline 428 hours ago
+
+1087___liguixiang___A___id.tokomaju.zvadsd____online 249 hours ___ offline 80 hours ago
+
+1122___liguixiang___A___id.akshdr.donkdonk____online 61 hours ___ offline 100 hours ago
+
+1126___shuxiaxin___A___com.DokuOk.cabjahbbaeddcj____online 11 hours ___ offline 77 hours ago
+
+11561___sikang___A___jqzbmr.hpxir.ltqw.pdonew____online 84 hours ___ offline 153 hours ago
+
+10121___xiangqian___A___com.rgmsqafu.cxahyoig____online 66 hours ___ offline 427 hours ago
+
+1014___shuxiaxin___A___com.babe.cabjahaebbdabi____online 14 hours ___ offline 246 hours ago
+
+1016___sikang___A___sadasd____online 0 hours ___ offline 162 hours ago
+
+10333___xiangqian___D___com.bcbghjzm.lbesgylb____online 68 hours ___ offline 428 hours ago
+
+10542___xiangqian___B___com.vaokpegl.bqgxzphw____online 70 hours ___ offline 428 hours ago
+
+1039___shuxiaxin___A___com.badj.cabjahacbaeeai____online 41 hours ___ offline 269 hours ago
+
+11421___xiangqian___A___com.gsdzyhco.dczkvgdf____online 55 hours ___ offline 105 hours ago
+
+1033___shuxiaxin___A___com.badd.cabjagbjbbeecb____online 12 hours ___ offline 608 hours ago
+
+1031___shuxiaxin___A___com.badbdkilat.cabjahafaideac____online 103 hours ___ offline 98 hours ago
+
+1036___shuxiaxin___B___com.badg.cabjahbabbebeh____online 5 hours ___ offline 112 hours ago
+
+1089___sikang___A___edao.xipsyo.lduvj.zthe____online 182 hours ___ offline 130 hours ago
+
+11060___liguixiang___A___id.nfdsf.untung____online 1 hours ___ offline 568 hours ago
+
+1182___darui___D___com.zdvnyxao.hrvcqpkowd____online 56 hours ___ offline 605 hours ago
+
+1181___zhuyuanbao___B___com.bbib.cabjagcjafchbb____online 61 hours ___ offline 266 hours ago
+
+1106___liguixiang___A___id.kartupengeluaran.kmlsd____online 249 hours ___ offline 607 hours ago
+
+1102___liguixiang___B___id.daslhfshf.whalehidup.hbavmu____online 962 hours ___ offline 102 hours ago
+
+1166___xiangqian___A___com.fwfooscj.tinbzjwm____online 44 hours ___ offline 289 hours ago
+
+11525___zhuyuanbao___D___qrjw.ljcbeb.demhtfkh____online 114 hours ___ offline 126 hours ago
+
+1050___sikang___A___fwiauv.uvwgtn.cosmf.dsjh____online 39 hours ___ offline 76 hours ago
+
+1053___zhuhuaqiang___A___com.muksnajhsjgujr.angskjuhkska____online 637 hours ___ offline 427 hours ago
+
+1055___shuxiaxin___B___com.baff.cabjahbabbfeci____online 39 hours ___ offline 78 hours ago
+
+11401___xiangqian___A___com.babasphz.dahxiain____online 362 hours ___ offline 253 hours ago
+
+1058___xiangqian___A___com.muxkrghk.cwkkwcei____online 62 hours ___ offline 264 hours ago
+
+1059___zhuhuaqiang___B___com.tikeda.datikea____online 64 hours ___ offline 129 hours ago
+
+1194___liguixiang___D___id.cicilajah.davv____online 63 hours ___ offline 431 hours ago
+
+1112___xiangqian___B___com.llaekqrv.bwcmwkps____online 7 hours ___ offline 709 hours ago
+
+1171___shuxiaxin___A___com.bbhb.cabjahaebcehae____online 143 hours ___ offline 117 hours ago
+
+1043___xiangqian___B___com.ibbrnocj.nrrwktzy____online 42 hours ___ offline 260 hours ago
+
+1041___shuxiaxin___A___com.baebsegerakilat.cabjahafafbccd____online 62 hours ___ offline 138 hours ago
+
+1049___zhuhuaqiang___A___com.wangcep.ceptam____online 60 hours ___ offline 100 hours ago
+
+11849___matao___B___xfka.akdj.fjgi.dji____online 0 hours ___ offline 91 hours ago
+
+
+--------------------------------- 数量统计 -------------------------------------
+-------- A/B:高度关注客户  C:无需上架客户  其他：新客发包、临时拒绝上架等 ---------------
+
+24小时内 发布/给包（包含马甲）:  12
+在线数量（包含马甲）: 4
+
+24小时内下架数量:  1
+
+客户总数: 169
+在线数量: 87
+
+A级客户数: 91
+在线数量: 66
+
+B级客户数: 31
+在线数量: 19
+
+C级客户数: 22
+在线数量: 0
+
+其他等级客户数: 25
+在线数量: 2
